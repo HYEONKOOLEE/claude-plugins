@@ -1,0 +1,8 @@
+{
+  "name": "frank-plugins",
+  "owner": { "name": "Frank" },
+  "metadata": { "description": "Frank의 전역 플러그인 마켓플레이스", "version": "1.0.0" },
+  "plugins": [
+    { "name": "planner-skill-kit", "source": "./planner-skill-kit", "description": "1인 창업 1주차 SOP 5종 스킬 체인 (아이디어 발굴→경쟁분석→MRD→브랜드전략→제안서)." }
+  ]
+}
