@@ -1,5 +1,5 @@
 {
-  "name": "frank-plugins",
+  "name": "planner-kit",
   "owner": { "name": "Frank" },
   "metadata": { "description": "Frank의 전역 플러그인 마켓플레이스", "version": "1.0.0" },
   "plugins": [
